@@ -48,7 +48,7 @@ Resources: https://finance.yahoo.com/   &  https://www.nasdaq.com/
 1) Create Fundamentals Page (For Descriptive Analysis Data)
 2) Create MLR Page (For Predictive Analysis Model)
 3) Create Alternative Page (For Compare Analyze what already exists compared to ours.)
-* Alternative Usisg The Geopolitical Risk Dashboard from BlackRock Investment Institute
+* Alternative Data has Using The Geopolitical Risk Dashboard from BlackRock Investment Institute
 
 Resources: https://www.blackrock.com/corporate/insights/blackrock-investment-institute/interactive-charts/geopolitical-risk-dashboard
 
