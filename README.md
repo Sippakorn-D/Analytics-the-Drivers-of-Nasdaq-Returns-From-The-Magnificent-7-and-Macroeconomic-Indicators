@@ -21,7 +21,7 @@ Resources: https://finance.yahoo.com/   &  https://www.nasdaq.com/
 5) Add Feature Engineering (By Chance raw price to Return Percentage Per Day)
 6) Save Cleaned & Return Data
 
-### Seccond step : Analysis by Multiple Regression
+### Second step : Analysis by Multiple Regression
 1) Descriptive Analysis
 * Find Describe Statistics From Assets & Index
 * Explore Cummulative From Return Rate
