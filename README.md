@@ -28,7 +28,7 @@ Resources: https://finance.yahoo.com/   &  https://www.nasdaq.com/
 * Explore Return Distribution & Return Volatility
 * Visualize Growp Rate & Risk-Adjusted Return
 
-2) Descriptive Analysis
+2) Diagnotic Analysis
 * Find Correlation
 * Linearity Checking
 * Visualize Scatter plot Correlation & Correlation heat map
