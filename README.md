@@ -54,5 +54,5 @@ Resources: https://www.blackrock.com/corporate/insights/blackrock-investment-ins
 
 ### Final step : Summary result  
 
-Dashboard : https://kmitlthailand-my.sharepoint.com/:u:/g/personal/67050568_kmitl_ac_th/IQBxqVmKV-VjQqSco-s7ZSU3AfpAGI92F_mSibgZ0WBgS2s?e=VkwhXX  
+Dashboard : https://drive.google.com/file/d/1hOyfCk_8DGOyFZAbcnl19x5-0ktAdXbo/view?usp=sharing
 Slide : 
