@@ -54,5 +54,5 @@ Resources: https://www.blackrock.com/corporate/insights/blackrock-investment-ins
 
 ### Final step : Summary result  
 
-Dashboard : https://drive.google.com/file/d/1Ck9JT_TzA2ufGL-w75SkVDssVZOLhJQ7/view?usp=sharing
-Slide : https://drive.google.com/file/d/1rKqI8R8Kt3DKqSI5y_WHM5XKTM1DeJtI/view?usp=sharing
+Dashboard : https://drive.google.com/file/d/1Ck9JT_TzA2ufGL-w75SkVDssVZOLhJQ7/view?usp=sharing  
+Slide : https://drive.google.com/file/d/1KfS3Hh-Qkp-C7do7-9tjEYOtWq4rkDhN/view?usp=drive_link
